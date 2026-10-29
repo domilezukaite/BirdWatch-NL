@@ -1,4 +1,4 @@
-# BirdWatch NL — AI-Powered Bird Identification and Monitoring Assistant 🦆
+# BirdWatch NL — AI-Powered Bird Identification and Monitoring Assistant 
 
 **Hackathon:** AI for Good — Hackathon 7: Eyes on Earth  
 **Team:** Domile Zukaite/ Slyman Arnaot
