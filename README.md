@@ -25,7 +25,7 @@ The model uses six **broad bird groups**, not exact species: **duck, goose, swan
 ## Evidence that it works
 
 - **Demo video:** https://drive.google.com/file/d/1MWeiT3g1r1Km78b3tP1FshlhYvtiyuA6/view?usp=sharing
-- **Roboflow workflow:** [Add shareable workflow link or screenshots of the published workflow]
+- **Roboflow workflow:**https://app.roboflow.com/gumguard-ai/solutions/chat?workflowUrl=waterbird-monitoring-assi-vwaterbird-monitoring-assi-2-rfdetr-small-t1-logic
 
 In a successful end-to-end local test on **29 October 2026**, the AI detected **one seagull** in an uploaded photo. The result was reviewed, saved with a date and location, and appeared in the observations table; CSV download was available. **One successful test is not evidence of overall accuracy.**
 
